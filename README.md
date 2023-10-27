@@ -1,5 +1,6 @@
 # JS-ukol01
 FIT e-mail
+
 Pokud se přihlásíte jako student například na Fakultu
  Informačních Technologí ČVUT, bude vám informačním systémem 
  automaticky přidělen e-mail, který se vytvoří z vašeho jména a příjmení. 
